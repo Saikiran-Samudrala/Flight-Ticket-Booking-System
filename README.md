@@ -13,7 +13,6 @@ Copy and paste the source code to the location where your local web server acces
 
 Open a browser and go to URL “http://localhost/Flight-Ticket-Booking-System-main" for booking flights.
 
-Open a browser and go to URL “http://localhost/Flight-Ticket-Booking-System-main/admin" for admin and user login. 
+Open a browser and go to URL “http://localhost/Flight-Ticket-Booking-System-main/Flight-Ticket-Booking-System-main/admin/login.php" for admin and user login. 
 
-For example -> Username: admin
-							Password: admin123
+For example -> Username: admin / Password: admin123
