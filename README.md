@@ -9,7 +9,7 @@ Open the web-server database and create a new database named flight_booking_db.
 
 Import the SQL file located in the database folder of the code.
 
-Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs\Flight-Ticket-Booking-System-main')
 
 Open a browser and go to URL “http://localhost/Flight-Ticket-Booking-System-main" for booking flights.
 
